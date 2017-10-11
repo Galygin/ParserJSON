@@ -1,0 +1,27 @@
+{
+	"country": "RU",
+	"city": "NOVOSIBIRSK",
+	"app_id": "ios.111111.app-store",
+	"application_name": "Here comes our game name",
+	"events": [{
+		"event": "App_Info",
+		"timestamp": 1474370839947,
+		"data": "{\"time_on\":0,\"type\":1}"
+	}, {
+		"event": "Session_End",
+		"timestamp": 1474370844706,
+		"data": "{\"time_on\":5,\"type\":0}"
+	}, {
+		"event": "App_Open",
+		"timestamp": 1474370839894,
+		"data": "{\"time_on\":0,\"type\":0}"
+	}, {
+		"event": "Scene_Start.Loading.0",
+		"timestamp": 1474370840840,
+		"data": "{\"time_on\":3,\"type\":0}"
+	}, {
+		"event": "Geo_Info",
+		"timestamp": 1474370839943,
+		"data": "{\"time_on\":0,\"type\":0}"
+	}]
+}
